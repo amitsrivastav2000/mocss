@@ -107,7 +107,7 @@ h3{color: white;
   text-decoration: underline;
   text-decoration-style: double;
   font-size: 30px;
-  overflow-wrap: normal;
+  height: auto;
 }
 .cd1{color: white;
   position: relative;
